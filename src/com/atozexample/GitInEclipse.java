@@ -7,7 +7,7 @@ public class GitInEclipse {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("this is the first commite git in eclise");
 
 	}
 
