@@ -11,6 +11,7 @@ public class GitInEclipse {
 		System.out.println("this is the first commite git in eclise");
 		System.out.println("YYY");
 		System.out.println("zzzz");
+		System.out.println("SSSS");
 
 	}
 
